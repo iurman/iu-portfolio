@@ -1,8 +1,15 @@
 /* Global styles */
+:root {
+  --light-blue: #ADD8E6;
+  --sky-blue: #87CEEB;
+  --soft-pink: #FFB6C1;
+}
+
 body {
   margin: 0;
   padding: 0;
   font-family: 'Helvetica Neue', sans-serif;
+  background-color: var(--light-blue);
   font-size: 16px;
   line-height: 1.5;
 }
@@ -17,7 +24,7 @@ header {
 /* Navigation styles */
 /* Navigation styles */
 nav {
-  background-color: #f2f2f2;
+  background-color: var(--sky-blue);
   height: 50px;
   display: flex;
   justify-content: space-between;
