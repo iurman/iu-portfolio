@@ -2,13 +2,9 @@
 imageSrc: "../../images/charles-deluvio-DgoyKNgPiFQ-unsplash.jpg"
 imageAlt: "About Gatsby Theme Portfolio Minimal"
 ---
+### Heres some more info about me
+I am pursuing a Bachelor's Degree with a major in Computer Science and a Minor in Data Science at Wentworth Institute of Technology, Boston, MA. I am interested in pursuing a career in Machine Learning as well as exploring how we can use it to further fields such as automation and medicine.
 
-Portfolio Minimal is a Gatsby Theme that creates outstanding one-pages portfolio within minutes!
+I have experience with Python, HTML, CSS, JS, React, Java, C, MySQL, Perl, and multiple distributions of Linux. I am also proficient with the Office 365 line of products as well as Google Drive products. At my current job I am in charge of managing a database and integrating multiple services and software to work together such as SharePoint, Netsuite, and Teams.
 
-It has predefined sections for your bio, skills, projects, and contact details. If you are a writer on Medium, you can integrate your latest articles in a distinct section as well. While building the theme, I tried to keep the setup as simple as possible while keeping everything configurable if you like to.
-
-Using theme composition, you can easily customize the CSS theme to your own preferences - e.g. change colors, fonts, etc.
-
-Last but not least, it has some cool features you can opt-in to: Dark Mode, Splash Screen, Cookie Banner, and more to find out :)
-
-Photo by <a href="https://unsplash.com/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank" rel="nofollow noopener noreferrer" aria-label="External Link"><u>Charles Deluvio</u></a> on Unsplash
+I used to work as a Computer Assembly Technician I at my current job, where I worked on assembling, imaging, and configuring a variety of computers, servers, and panel PC's. When needed I still help out with certain builds. On the side I am working on developing a health and fitness application I started developing during a course last semester. I have been working on integrating GPT technology into the application to further my understanding of Machine Learning and AI.
