@@ -1,51 +1,51 @@
 {
   "interests": [
     {
-      "label": "Quick and Easy Setup",
+      "label": "Gaming",
       "image": {
         "src": "../../images/joystick.png",
         "alt": ""
       }
     },
     {
-      "label": "Content via Markdown",
+      "label": "Writing",
       "image": {
         "src": "../../images/notebook.png",
         "alt": ""
       }
     },
     {
-      "label": "Responsive Design",
+      "label": "Lego",
       "image": {
-        "src": "../../images/nail-polish.png",
+        "src": "../../images/lego.png",
         "alt": ""
       }
     },
     {
-      "label": "Animations",
+      "label": "AI and Machine Learning",
       "image": {
-        "src": "../../images/gem-stone.png",
+        "src": "../../images/robot.png",
         "alt": ""
       }
     },
     {
-      "label": "PWA (Offline Support)",
+      "label": "Lifting and Gyming",
       "image": {
-        "src": "../../images/mobile-phone.png",
+        "src": "../../images/exercise.png",
         "alt": ""
       }
     },
     {
-      "label": "Modern Tech-Stack",
+      "label": "Dungeons and Dragons",
       "image": {
-        "src": "../../images/gatsby.png",
+        "src": "../../images/dragon.png",
         "alt": ""
       }
     },
     {
-      "label": "Blazing Fast",
+      "label": "Music",
       "image": {
-        "src": "../../images/high-voltage.png",
+        "src": "../../images/piano.png",
         "alt": ""
       }
     }
