@@ -34,7 +34,7 @@ export default function IndexPage() {
   return (
     <>
       <Seo title="Isaac Urman's Portfolio" />
-      <Page useSplashScreenAnimation>
+      <Page>
         <HeroSection sectionId="hero" />
         <AboutSection sectionId="about" heading="About Me" />
         <InterestsSection sectionId="skills" 
