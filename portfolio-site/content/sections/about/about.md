@@ -1,6 +1,6 @@
 ---
 imageSrc: "../../images/about.JPG"
-imageAlt: "About Gatsby Theme Portfolio Minimal"
+imageAlt: "About Me"
 ---
 ### Heres some more info about me
 I am pursuing a Bachelor's Degree with a major in Computer Science and a Minor in Data Science at Wentworth Institute of Technology, Boston, MA. I am interested in pursuing a career in Machine Learning as well as exploring how we can use it to further fields such as automation and medicine.

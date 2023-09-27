@@ -11,6 +11,7 @@ module.exports = {
           startUrl: "/", // Used in manifest.json
           backgroundColor: "#FFFFFF", // Used in manifest.json
           themeColor: "#000000", // Used in manifest.json
+          hightlight: '000000',
           display: "minimal-ui", // Used in manifest.json
         },
         contentDirectory: "./content",
