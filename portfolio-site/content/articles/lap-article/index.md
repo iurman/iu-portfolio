@@ -1,11 +1,11 @@
 ---
-title: "LAP; A Health and Fitness Application"
+title: "LAP: A Health and Fitness Application"
 description: "An overview of my first time implementing true software engineering practices."
 date: "2023-06-02"
 banner:
   src: "../../images/lap_post/laplogo.png"
   alt: "LAP Logo"
-  caption: 'LAPs first logo'
+  caption: 'The applications first logo'
 categories:
   - "Projects"
 keywords:
@@ -15,19 +15,23 @@ keywords:
   - "Blog"
 ---
 
-# From School Project to Application
-
-```
-
 # Developing LAP: Lift and Progress
 
 
-## The Beginning
+### The Beginning
 
 Starting with knowledge of developing very simple applications and websites, developing LAP seemed to be no difficult task. My peer Darrian Yang and I decided to work together to develop a health and fitness application for our Software Engineering course that could act as your one stop solution for any and all of your health and fitness needs. Little did we know of what troubles we would face as well as how our final product for the project would differ from our vision.
 
-## Planning Stages
+### Planning Stages
 
-Our first step for this project was deciding what architectural model that we would like to use for our application. We settled on an MVC *(Model-view-controller)* seen below...
+Our first step for this project was deciding what architectural model that we would like to use for our application. We settled on an MVC *(Model-view-controller)* seen below:
 
 ![MVC Diagram](../../images/lap_post/MVC.png)
+
+We chose to go with the MVC architecture due to its flexibility in developing web/mobile applications. We also knew we would want multiple ways to view and interact with data. It allowed for data to change independently of its representation and vice versa such as with a navigation bar.
+
+
+
+# From School Project to Application
+
+Darrian Yang and I decided to further our development of this application and in our free time we contribute to the repository to finish the application.
