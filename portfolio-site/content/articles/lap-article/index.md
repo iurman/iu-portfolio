@@ -5,7 +5,7 @@ date: "2023-06-02"
 banner:
   src: "../../images/lap_post/laplogo.png"
   alt: "LAP Logo"
-  caption: 'LAP's first logo'
+  caption: 'LAPs first logo'
 categories:
   - "Projects"
 keywords:
