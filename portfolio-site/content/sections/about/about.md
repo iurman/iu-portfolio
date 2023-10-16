@@ -9,4 +9,4 @@ I'm skilled in a variety of programming languages and technologies including Pyt
 
 Previously at SuperLogics, I led the redesign of internal SharePoint sites and automation's as a Back End Developer Intern, and was instrumental in the company's transition from QuickBooks to NetSuite. I also gained hands-on experience in computer assembly, progressing from basic systems to specialized server configurations.
 
-On the side, I'm developing a health and fitness application that leverages GPT technology to deepen my understanding of Machine Learning and AI. I balance my professional commitments with academic pursuits, demonstrating strong time-management and multitasking abilities.
+On the side, I'm developing a health and fitness application that leverages my software engineering knowledge as well as AI technology to deepen my understanding of Machine Learning and AI. I do my best to balance not only my professional commitments but my academic pursuits and personal life.
